@@ -98,16 +98,16 @@ h1,h2,p{
 
 
 .color-cyan{
-    border-top: 8px solid var(--color-Cyan);
+    border-top: 5px solid var(--color-Cyan);
 }
 .color-red{
-    border-top: 8px solid var(--color-Red);
+    border-top: 5px solid var(--color-Red);
 }
 .color-orange{
-    border-top: 8px solid var(--color-Orange);
+    border-top: 5px solid var(--color-Orange);
 }
 .color-blue{
-    border-top: 8px solid var(--color-Blue);
+    border-top: 5px solid var(--color-Blue);
 }
 
 footer{
