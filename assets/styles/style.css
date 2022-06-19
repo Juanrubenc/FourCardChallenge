@@ -15,7 +15,7 @@
 
 /* --- Reset --- */
 body{
-    font-size: 15px;
+    font-size: 12px;
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
@@ -70,7 +70,7 @@ h1,h2,p{
 }
 
 .card{
-    width: min(100%,300px);
+    width: min(100%,350px);
     padding: 20px;
     background-color: white;
     border-radius: 8px;
@@ -79,13 +79,13 @@ h1,h2,p{
 
 .card_title{
     color: var(--color-DarkBlue);
-    font-size: 1.2 rem;
+    font-size: 1rem;
     margin-bottom:5px;
 }
 
 .card_text{
     color:var(--color-GrayishBlue);
-    font-family: .8rem;
+    font-size: .80rem;
     margin-bottom: 30px;
     line-height: 1.8;
 }
