@@ -81,6 +81,7 @@ h1,h2,p{
     color: var(--color-DarkBlue);
     font-size: 1rem;
     margin-bottom:5px;
+    font-weight: 400;
 }
 
 .card_text{
